@@ -1,0 +1,5 @@
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\DataAccessWithADO.NET\Hd0917093DAL\bin\Debug\Hd0917093DAL.dll
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\DataAccessWithADO.NET\Hd0917093DAL\bin\Debug\Hd0917093DAL.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\DataAccessWithADO.NET\Hd0917093DAL\obj\Debug\Hd0917093DAL.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\DataAccessWithADO.NET\Hd0917093DAL\obj\Debug\Hd0917093DAL.dll
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\DataAccessWithADO.NET\Hd0917093DAL\obj\Debug\Hd0917093DAL.pdb
